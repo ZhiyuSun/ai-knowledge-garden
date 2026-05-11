@@ -1,0 +1,72 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github_trending",
+    "popularity": -1,
+    "summary": "开源个人 AI 助手，宣称跨操作系统、跨平台可用。据第三方统计，其 2026 年增长迅速。热度未知（本周新增 Star 数未能获取）。"
+  },
+  {
+    "title": "HKUDS/ClawWork",
+    "url": "https://github.com/HKUDS/ClawWork",
+    "source": "github_trending",
+    "popularity": -1,
+    "summary": "港大数据智能实验室项目，定位为“把 OpenClaw 当成 AI 同事”的协作层框架。热度未知（本周新增 Star 数未能获取）。"
+  },
+  {
+    "title": "HKUDS/nanobot",
+    "url": "https://github.com/HKUDS/nanobot",
+    "source": "github_trending",
+    "popularity": -1,
+    "summary": "港大数据智能实验室出品的超轻量个人 AI Agent，主打极小体量与本地化个人助理场景。热度未知（本周新增 Star 数未能获取）。"
+  },
+  {
+    "title": "HKUDS/RAG-Anything",
+    "url": "https://github.com/HKUDS/RAG-Anything",
+    "source": "github_trending",
+    "popularity": -1,
+    "summary": "港大数据智能实验室开源的 All-in-One RAG 框架，试图统一多种来源与模态的检索增强生成流程。热度未知（本周新增 Star 数未能获取）。"
+  },
+  {
+    "title": "HKUDS/AutoAgent",
+    "url": "https://github.com/HKUDS/AutoAgent",
+    "source": "github_trending",
+    "popularity": -1,
+    "summary": "全自动、零代码的 LLM Agent 框架，强调让使用者无需编程即可搭建智能体工作流。热度未知（本周新增 Star 数未能获取）。"
+  },
+  {
+    "title": "camel-ai/owl",
+    "url": "https://github.com/camel-ai/owl",
+    "source": "github_trending",
+    "popularity": -1,
+    "summary": "CAMEL 团队推出的 OWL 框架，面向真实世界任务自动化的多智能体协作，重点在“优化工作团队式学习”。热度未知（本周新增 Star 数未能获取）。"
+  },
+  {
+    "title": "camel-ai/camel",
+    "url": "https://github.com/camel-ai/camel",
+    "source": "github_trending",
+    "popularity": -1,
+    "summary": "CAMEL 多智能体框架，长期迭代中，目标是寻找智能体的扩展规律（Scaling Law of Agents）。热度未知（本周新增 Star 数未能获取）。"
+  },
+  {
+    "title": "TEN-framework/ten-framework",
+    "url": "https://github.com/TEN-framework/TEN-Agent",
+    "source": "github_trending",
+    "popularity": -1,
+    "summary": "开源的对话式语音 AI Agent 框架，面向实时语音交互场景，提供完整的对话管线与组件。热度未知（本周新增 Star 数未能获取）。"
+  },
+  {
+    "title": "openai/swarm",
+    "url": "https://github.com/openai/swarm",
+    "source": "github_trending",
+    "popularity": -1,
+    "summary": "OpenAI 解决方案团队维护的教学向框架，探索轻量、符合人体工学的多智能体编排方式。热度未知（本周新增 Star 数未能获取）。"
+  },
+  {
+    "title": "simstudioai/sim",
+    "url": "https://github.com/simstudioai/sim",
+    "source": "github_trending",
+    "popularity": -1,
+    "summary": "面向企业的 AI Agent 构建、部署与编排平台，定位为“AI 劳动力”的中央智能层。热度未知（本周新增 Star 数未能获取）。"
+  }
+]
